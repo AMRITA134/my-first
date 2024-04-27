@@ -1,2 +1,3 @@
 # my-first
-this is my first repo
+this is a c program to print hello world
+
